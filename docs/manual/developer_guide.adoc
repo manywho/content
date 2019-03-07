@@ -329,6 +329,7 @@ CMakeLists.txt
 Contributors.md
 Contributors.xml
 debian8
+debian10
 DISCLAIMER
 Dockerfile
 docs
@@ -594,6 +595,7 @@ The SSG content is primarily divided by platform and it can be seen on its direc
 ├── _build-scripts_
 ├── chromium
 ├── debian8
+├── debian10
 ├── _docs_
 ├── fedora
 ├── firefox
