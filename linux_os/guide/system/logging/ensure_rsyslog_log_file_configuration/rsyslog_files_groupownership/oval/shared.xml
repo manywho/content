@@ -5,7 +5,7 @@
       <affected family="unix">
         <platform>multi_platform_rhel</platform>
         <platform>multi_platform_fedora</platform>
-        <platform>Debian 8</platform>
+        <platform>multi_platform_debian</platform>
         <platform>Ubuntu 1404</platform>
         <platform>Ubuntu 1604</platform>
         <platform>multi_platform_ol</platform>
