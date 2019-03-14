@@ -22,6 +22,7 @@ identifiers:
 
 references:
     cis@debian8: 5.1.6
+    cis@debian9: 5.1.6
     cis: 4.2.1.5
     nist: AU-9
     isa-62443-2013: 'SR 2.10,SR 2.11,SR 2.12,SR 2.8,SR 2.9'

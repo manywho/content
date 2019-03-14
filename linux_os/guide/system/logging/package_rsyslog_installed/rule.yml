@@ -17,6 +17,7 @@ identifiers:
 
 references:
     cis@debian8: 5.1.1
+    cis@debian9: 5.1.1
     anssi: NT28(R5),NT28(R46)
     cis: 4.2.3
     disa: 1311,1312

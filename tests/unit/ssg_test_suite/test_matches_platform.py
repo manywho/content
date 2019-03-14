@@ -80,7 +80,7 @@ def test_list_combined_match():
 
 
 def test_list_combined_match_2():
-    scenario_platforms = ["Debian 8", "multi_platform_ubuntu", "openSUSE",
+    scenario_platforms = ["Debian 8", "Debian 9", "multi_platform_ubuntu", "openSUSE",
                           "Red Hat Enterprise Linux 6"]
     benchmark_cpes = {"cpe:/o:debianproject:debian:8"}
     assert common.matches_platform(scenario_platforms, benchmark_cpes) == True

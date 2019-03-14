@@ -38,6 +38,7 @@ handle_wrong_argument() {
 all_cmake_products=(
 	CHROMIUM
 	DEBIAN8
+	DEBIAN9
 	EXAMPLE
 	FEDORA
 	FIREFOX

@@ -23,7 +23,7 @@ def test_is_applicable():
     assert not ssg.rules.is_applicable('rhosp13', 'rhel7')
     assert not ssg.rules.is_applicable('fedora,multi_platform_ubuntu', 'rhel7')
     assert not ssg.rules.is_applicable('ol7', 'rhel7')
-    assert not ssg.rules.is_applicable('fedora,debian8', 'rhel7')
+    assert not ssg.rules.is_applicable('fedora,debian8,debian9', 'rhel7')
 
 
 def test_get_rule_dir_id():

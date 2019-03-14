@@ -42,6 +42,7 @@ identifiers:
 
 references:
     cis@debian8: 5.1.5
+    cis@debian9: 5.1.5
     anssi: NT28(R7)
     stigid@rhel6: RHEL-06-000136
     srg@rhel6: SRG-OS-000043,SRG-OS-000215
